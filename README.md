@@ -127,6 +127,6 @@ LawSystem/
 
 ## Author
 
-Your Name · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+Mary Sandra K.X · [LinkedIn](https://www.linkedin.com/in/marysandra) · [GitHub](https://github.com/msan432003-star)
 
 *Academic project, not legal advice.*
