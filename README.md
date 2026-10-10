@@ -6,11 +6,28 @@ Built as an academic project with **PHP, MySQL, PDO and Bootstrap 5**.
 
 ## Screenshots
 
-> Add 6 to 10 screenshots in a `screenshots/` folder and list them here, for example:
->
-> ![Home](screenshots/home.png)
-> ![Admin dashboard](screenshots/admin-dashboard.png)
-> ![Advocate case management](screenshots/case-manage.png)
+### Public
+| Home | Law Details search |
+|---|---|
+| ![Home](screenshots/home-page.png) | ![Law details](screenshots/law-details.png) |
+
+### Client
+| Dashboard | Fee proposals |
+|---|---|
+| ![Client dashboard](screenshots/client-dashboard.png) | ![Fee proposals](screenshots/fee-proposals.png) |
+
+### Advocate
+| Browse open cases | Case management |
+|---|---|
+| ![Advocate browse](screenshots/advocate-browse.png) | ![Case management](screenshots/advocate-case-management.png) |
+
+### Admin
+| Dashboard | Advocate approval |
+|---|---|
+| ![Admin dashboard](screenshots/admin-dashboard.png) | ![Admin approval](screenshots/admin-approval.png) |
+
+### Chat
+![Chat interface](screenshots/chat-interface.png)
 
 ## Features
 
