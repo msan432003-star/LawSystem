@@ -1,0 +1,17 @@
+# Real database credentials - never commit
+config/database.php
+
+# User uploads (keep the folder and its .htaccess)
+uploads/*
+!uploads/.htaccess
+!uploads/.gitkeep
+
+# One-time setup scripts
+create_admin.php
+
+# Logs and editor files
+*.log
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
